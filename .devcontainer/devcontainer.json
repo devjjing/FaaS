@@ -1,6 +1,6 @@
 {
     "name" : "Python & Azure",
-    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "image": "mcr.microsoft.com/devcontainers/python:1-3.11-bookworm",
     "waitFor": "onCreateCommand",
     "updateContentCommand": "python3 -m pip install -r requirements.txt",
     "postCreateCommand": "",

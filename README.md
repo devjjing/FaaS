@@ -1,4 +1,4 @@
-# Python & Azure
+# Python Azure Functions
 
 [
     ![Open in Remote - Containers](
